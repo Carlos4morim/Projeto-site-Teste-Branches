@@ -5,6 +5,10 @@
 body{
     background-color: blueviolet;    
 }
+h1,h2{
+    font-size: 2em;
+    color: rgb(92, 12, 167);
+}
 main{
     background-color: white;
     width: 500px;
