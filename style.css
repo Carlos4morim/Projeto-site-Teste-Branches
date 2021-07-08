@@ -5,8 +5,12 @@
 body{
     background-color: blueviolet;    
 }
-h1,h2{
+h1{
     font-size: 2em;
+    color: rgb(92, 12, 167);
+}
+h2{
+    font-size: 1.5em;
     color: rgb(92, 12, 167);
 }
 main{
